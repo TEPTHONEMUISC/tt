@@ -102,7 +102,7 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("‹ قناة السورس ›", url=f"https://t.me/MUISC_TEBTHON"),
+                InlineKeyboardButton("‹ قناة السورس ›", url=f"https://t.me/Tepthon"),
                 InlineKeyboardButton(
                     "‹ مطور السورس ›", url=f"https://t.me/P17_12"
                 ),
