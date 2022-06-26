@@ -45,7 +45,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ قناة السورس ›", url="https://t.me/MUISC_TEBTHON"
+                        "‹ قناة السورس ›", url="https://t.me/Tepthon"
                     )
                 ],
             ]
